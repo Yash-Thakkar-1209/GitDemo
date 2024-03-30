@@ -1,3 +1,5 @@
 # GitDemo
 
-My name Is Yash thakkar
+My name Is Yash thakkar.
+
+I' m a frontend developer.
